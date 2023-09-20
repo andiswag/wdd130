@@ -1,0 +1,44 @@
+.content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav {
+    text-align: center;
+}
+a {
+    color: white;
+}
+a:hover {
+    background-color: #023E8A;
+}
+.home-title {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+#background {
+height: 725px;
+background-color: #FB8500;
+}
+body {
+    background-color: #fcfcfc;
+}
+header {
+    background-color: #219EBC;
+}
+.book, .join {
+    background-color: #219EBC;
+}
+.msg {
+    background-color: #023E8A;
+}
+footer {
+    background-color: #219EBC;
+}
