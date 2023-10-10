@@ -7,13 +7,13 @@ nav, footer {
 
 a {
     color: white;
+    padding: 25px;
     margin: 40px;
     font-size: 1.5em;
 }
 a:hover {
   background-color: white;
   color: steelblue;
-  padding: 25px;
 }
 h1 {
     color: steelblue;
