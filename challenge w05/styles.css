@@ -1,14 +1,4 @@
-* {
-    padding: 0;
-    margin: 0px;
-}
 nav {
     background-color: grey;
-    padding: 50px;
-}
-img {
-    width: 200px;
-    padding: 50px;
-    border: 70px darkslategray;
-    border-radius: 50%;
+    padding: 10px;
 }
