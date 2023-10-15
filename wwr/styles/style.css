@@ -47,6 +47,7 @@ h1 {
     font-size: 40px;
 }
 h4 {
+    font-family: var(--paragraph-font);
     text-align: center;
     color: black;
 }
