@@ -47,7 +47,7 @@ h1 {
     font-size: 40px;
 }
 h4 {
-    font-family: var(--paragraph-font);
+    font-family: "Roboto:ital";
     text-align: center;
     color: black;
 }
