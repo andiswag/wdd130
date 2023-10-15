@@ -8,6 +8,7 @@
     margin: 0 auto;
     --heading-font: "Shadows Into Light";
     --paragraph-font: "Roboto:ital", Helvetica, sans-serif;
+    font-size: 22px;
 }
 /* nav a:hover {
     text-align: center;
@@ -31,6 +32,7 @@ a:hover {
 .home-title {
     text-align: center;
     color:black;
+    font-size: 2em;
 }
 
 #hero-box {
@@ -44,10 +46,9 @@ a:hover {
 
 h1 {
     font-family: var(--heading-font);
-    font-size: 40px;
 }
 h4 {
-    font-family: "Roboto:ital";
+    font-family: var(--paragraph-font);
     text-align: center;
     color: black;
 }
