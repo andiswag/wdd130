@@ -63,9 +63,8 @@ background-color:rgb(112, 129, 82);
 }
 body {
     background-color: #fcfcfc;
-    font-family: "Shadows Into Light", Arial, Helvetica, sans-serif;
-    /* --heading-font: "Shadows Into Light";
-    --paragraph-font: "Roboto:ital", Helvetica, sans-serif; */
+    --heading-font: "Shadows Into Light";
+    --paragraph-font: "Roboto:ital", Helvetica, sans-serif;
     font-size: 22px;
     padding: 0;
     margin: 0;
