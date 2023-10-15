@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Shadows+Into+Light&display=swap');
 
 #content {
     max-width: 1600px;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 h1 {
-    font: "Source Sans Pro";
+    font: "Shadows Into Light";
 }
 h4 {
     text-align: center;
