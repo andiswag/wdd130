@@ -7,7 +7,7 @@
     max-width: 1600px;
     margin: 0 auto;
     --heading-font: "Shadows Into Light";
-    --paragraph-font: "Open Sans", Helvetica, sans-serif;
+    --paragraph-font: "Roboto:ital", Helvetica, sans-serif;
 }
 /* nav a:hover {
     text-align: center;
