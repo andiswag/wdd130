@@ -33,26 +33,31 @@ gap: 20px;
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
+  display: grid;
 }
 .red2 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
+  z-index: 10;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  z-index: 20;
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  z-index: 30;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  z-index: 40;
 } 
 /* Activity 3 styles */ 
 .content3 {
