@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Shadows+Into+Light&display=swap');
+
 :root {
     --primary-color: #52C4E0;
     --secondary-color: #035177;
@@ -9,10 +11,14 @@
     --nav-background-color: #ABD8ED;
     --headline-color-on-color: white;
     --headline-color-on-white: #396E94;
+    --nav-link-color: white;
+    --nav-hover-link-color: white;
+    --nav-hover-background-color: #035177;
     }
 h1, h2 {
     font-family: var(--heading-font);
     }
+
 h2 {
     text-align: center;
 }
@@ -31,4 +37,34 @@ body {
     text-align: center;
     color: var(--headline-color-on-color);
     background-color: var(--paragraph-background-color);
+  }
+  div {
+    position: relative;
+  }
+  .hero img {
+    display: block;
+    width: 100%;
+    height: auto
+  }
+  .article img {
+    float: right;
+  }
+  nav {
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.2em;
+  }
+  nav a {
+    padding:1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+    font-family: var(--paragraph-font);
+  }
+  nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover-background-color);
+  }
+  div {
+    position: relative;
   }
