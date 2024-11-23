@@ -5,7 +5,13 @@
     --accent2-color: #FFCB47;
     --heading-font: "Shadows Into Light";
     --paragraph-font: "Roboto:ital", Helvetica, sans-serif;
+
     --nav-background-color: #ABD8ED;
+    --headline-color-on-color: white;
+    --headline-color-on-white: #396E94;
+    }
+h1, h2 {
+    font-family: var(--heading-font);
     }
 h2 {
     text-align: center;
@@ -19,4 +25,10 @@ body {
     padding: 4em;
     font-size: 18px;
     text-align: center;
+  }
+  header {
+    padding: 1em;
+    text-align: center;
+    color: var(--headline-color-on-color);
+    background-color: var(--paragraph-background-color);
   }
