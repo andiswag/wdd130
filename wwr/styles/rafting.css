@@ -20,7 +20,8 @@ h1, h2 {
     }
 
 h2 {
-    text-align: center;
+    text-align: left;
+    color: var(--secondary-color);
 }
 p {
     font-family: var(--paragraph-font);
@@ -30,7 +31,6 @@ body {
     margin: 0 auto;
     padding: 4em;
     font-size: 18px;
-    text-align: center;
   }
   header {
     padding: 1em;
@@ -51,7 +51,7 @@ body {
   }
   nav {
     line-height: 3em;
-    text-align: center;
+    text-align: left;
     font-size: 1.2em;
   }
   nav a {
