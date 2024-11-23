@@ -1,3 +1,23 @@
 :root {
-    --background-color: steelblue;
+    --primary-color: #52C4E0;
+    --secondary-color: #035177;
+    --accent1-colour: #ABD8ED;
+    --accent2-color: #FFCB47;
+    --heading-font: "Shadows Into Light";
+    --paragraph-font: "Roboto:ital", Helvetica, sans-serif;
+    --nav-background-color: #ABD8ED;
     }
+h2 {
+    font-family: var(--heading-font);
+    text-align: center;
+}
+p {
+    font-family: var(--paragraph-font);
+}
+body {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+  }
